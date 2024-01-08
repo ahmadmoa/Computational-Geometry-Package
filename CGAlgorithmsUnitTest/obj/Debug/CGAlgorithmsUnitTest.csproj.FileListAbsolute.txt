@@ -1,0 +1,37 @@
+C:\Users\Mosaab\Desktop\CGUI\CGAlgorithmsUnitTest\bin\Debug\CGAlgorithmsUnitTest.dll
+C:\Users\Mosaab\Desktop\CGUI\CGAlgorithmsUnitTest\bin\Debug\CGAlgorithmsUnitTest.pdb
+C:\Users\Mosaab\Desktop\CGUI\CGAlgorithmsUnitTest\bin\Debug\CGAlgorithms.dll
+C:\Users\Mosaab\Desktop\CGUI\CGAlgorithmsUnitTest\bin\Debug\CGUtilities.dll
+C:\Users\Mosaab\Desktop\CGUI\CGAlgorithmsUnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Mosaab\Desktop\CGUI\CGAlgorithmsUnitTest\bin\Debug\CGAlgorithms.pdb
+C:\Users\Mosaab\Desktop\CGUI\CGAlgorithmsUnitTest\bin\Debug\CGUtilities.pdb
+C:\Users\Mosaab\Desktop\CGUI\CGAlgorithmsUnitTest\obj\Debug\CGAlgorithmsUnitTest.csproj.AssemblyReference.cache
+C:\Users\Mosaab\Desktop\CGUI\CGAlgorithmsUnitTest\obj\Debug\CGAlgorithmsUnitTest.csproj.CoreCompileInputs.cache
+C:\Users\Mosaab\Desktop\CGUI\CGAlgorithmsUnitTest\obj\Debug\CGAlgorithmsUnitTest.csproj.CopyComplete
+C:\Users\Mosaab\Desktop\CGUI\CGAlgorithmsUnitTest\obj\Debug\CGAlgorithmsUnitTest.dll
+C:\Users\Mosaab\Desktop\CGUI\CGAlgorithmsUnitTest\obj\Debug\CGAlgorithmsUnitTest.pdb
+C:\Users\h\Desktop\CGUI\CGAlgorithmsUnitTest\bin\Debug\CGAlgorithmsUnitTest.dll
+C:\Users\h\Desktop\CGUI\CGAlgorithmsUnitTest\bin\Debug\CGAlgorithmsUnitTest.pdb
+C:\Users\h\Desktop\CGUI\CGAlgorithmsUnitTest\bin\Debug\CGAlgorithms.dll
+C:\Users\h\Desktop\CGUI\CGAlgorithmsUnitTest\bin\Debug\CGUtilities.dll
+C:\Users\h\Desktop\CGUI\CGAlgorithmsUnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\h\Desktop\CGUI\CGAlgorithmsUnitTest\bin\Debug\CGAlgorithms.pdb
+C:\Users\h\Desktop\CGUI\CGAlgorithmsUnitTest\bin\Debug\CGUtilities.pdb
+C:\Users\h\Desktop\CGUI\CGAlgorithmsUnitTest\obj\Debug\CGAlgorithmsUnitTest.csproj.AssemblyReference.cache
+C:\Users\h\Desktop\CGUI\CGAlgorithmsUnitTest\obj\Debug\CGAlgorithmsUnitTest.csproj.CoreCompileInputs.cache
+C:\Users\h\Desktop\CGUI\CGAlgorithmsUnitTest\obj\Debug\CGAlgorithmsUnitTest.csproj.CopyComplete
+C:\Users\h\Desktop\CGUI\CGAlgorithmsUnitTest\obj\Debug\CGAlgorithmsUnitTest.dll
+C:\Users\h\Desktop\CGUI\CGAlgorithmsUnitTest\obj\Debug\CGAlgorithmsUnitTest.pdb
+C:\Users\GH\Desktop\geo\final geo\CGUI\CGAlgorithmsUnitTest\bin\Debug\CGAlgorithmsUnitTest.dll
+C:\Users\GH\Desktop\geo\final geo\CGUI\CGAlgorithmsUnitTest\bin\Debug\CGAlgorithmsUnitTest.pdb
+C:\Users\GH\Desktop\geo\final geo\CGUI\CGAlgorithmsUnitTest\bin\Debug\CGAlgorithms.dll
+C:\Users\GH\Desktop\geo\final geo\CGUI\CGAlgorithmsUnitTest\bin\Debug\CGUtilities.dll
+C:\Users\GH\Desktop\geo\final geo\CGUI\CGAlgorithmsUnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\GH\Desktop\geo\final geo\CGUI\CGAlgorithmsUnitTest\bin\Debug\CGAlgorithms.pdb
+C:\Users\GH\Desktop\geo\final geo\CGUI\CGAlgorithmsUnitTest\bin\Debug\CGUtilities.pdb
+C:\Users\GH\Desktop\geo\final geo\CGUI\CGAlgorithmsUnitTest\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\GH\Desktop\geo\final geo\CGUI\CGAlgorithmsUnitTest\obj\Debug\CGAlgorithmsUnitTest.csproj.AssemblyReference.cache
+C:\Users\GH\Desktop\geo\final geo\CGUI\CGAlgorithmsUnitTest\obj\Debug\CGAlgorithmsUnitTest.csproj.CoreCompileInputs.cache
+C:\Users\GH\Desktop\geo\final geo\CGUI\CGAlgorithmsUnitTest\obj\Debug\CGAlgorithmsUnitTest.csproj.CopyComplete
+C:\Users\GH\Desktop\geo\final geo\CGUI\CGAlgorithmsUnitTest\obj\Debug\CGAlgorithmsUnitTest.dll
+C:\Users\GH\Desktop\geo\final geo\CGUI\CGAlgorithmsUnitTest\obj\Debug\CGAlgorithmsUnitTest.pdb

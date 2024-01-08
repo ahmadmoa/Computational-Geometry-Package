@@ -1,0 +1,75 @@
+C:\Users\Mosaab\Desktop\CGUI\CGUI\bin\Debug\CGUI.exe.config
+C:\Users\Mosaab\Desktop\CGUI\CGUI\bin\Debug\CGUI.exe
+C:\Users\Mosaab\Desktop\CGUI\CGUI\bin\Debug\CGUI.pdb
+C:\Users\Mosaab\Desktop\CGUI\CGUI\bin\Debug\CGAlgorithms.dll
+C:\Users\Mosaab\Desktop\CGUI\CGUI\bin\Debug\CGUtilities.dll
+C:\Users\Mosaab\Desktop\CGUI\CGUI\bin\Debug\CGAlgorithms.pdb
+C:\Users\Mosaab\Desktop\CGUI\CGUI\bin\Debug\CGUtilities.pdb
+C:\Users\Mosaab\Desktop\CGUI\CGUI\obj\Debug\CGUI.csproj.AssemblyReference.cache
+C:\Users\Mosaab\Desktop\CGUI\CGUI\obj\Debug\Styles\UIStyles.baml
+C:\Users\Mosaab\Desktop\CGUI\CGUI\obj\Debug\Styles\DrawingStyle.baml
+C:\Users\Mosaab\Desktop\CGUI\CGUI\obj\Debug\Styles\ResultStyle.baml
+C:\Users\Mosaab\Desktop\CGUI\CGUI\obj\Debug\App.baml
+C:\Users\Mosaab\Desktop\CGUI\CGUI\obj\Debug\MainWindow.g.cs
+C:\Users\Mosaab\Desktop\CGUI\CGUI\obj\Debug\App.g.cs
+C:\Users\Mosaab\Desktop\CGUI\CGUI\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Mosaab\Desktop\CGUI\CGUI\obj\Debug\CGUI_MarkupCompile.cache
+C:\Users\Mosaab\Desktop\CGUI\CGUI\obj\Debug\CGUI_MarkupCompile.lref
+C:\Users\Mosaab\Desktop\CGUI\CGUI\obj\Debug\MainWindow.baml
+C:\Users\Mosaab\Desktop\CGUI\CGUI\obj\Debug\CGUI.g.resources
+C:\Users\Mosaab\Desktop\CGUI\CGUI\obj\Debug\CGUI.Properties.Resources.resources
+C:\Users\Mosaab\Desktop\CGUI\CGUI\obj\Debug\CGUI.csproj.GenerateResource.cache
+C:\Users\Mosaab\Desktop\CGUI\CGUI\obj\Debug\CGUI.csproj.CoreCompileInputs.cache
+C:\Users\Mosaab\Desktop\CGUI\CGUI\obj\Debug\CGUI.csproj.CopyComplete
+C:\Users\Mosaab\Desktop\CGUI\CGUI\obj\Debug\CGUI.exe
+C:\Users\Mosaab\Desktop\CGUI\CGUI\obj\Debug\CGUI.pdb
+C:\Users\h\Desktop\CGUI\CGUI\bin\Debug\CGUI.exe.config
+C:\Users\h\Desktop\CGUI\CGUI\bin\Debug\CGUI.exe
+C:\Users\h\Desktop\CGUI\CGUI\bin\Debug\CGUI.pdb
+C:\Users\h\Desktop\CGUI\CGUI\bin\Debug\CGAlgorithms.dll
+C:\Users\h\Desktop\CGUI\CGUI\bin\Debug\CGUtilities.dll
+C:\Users\h\Desktop\CGUI\CGUI\bin\Debug\CGAlgorithms.pdb
+C:\Users\h\Desktop\CGUI\CGUI\bin\Debug\CGUtilities.pdb
+C:\Users\h\Desktop\CGUI\CGUI\obj\Debug\CGUI.csproj.AssemblyReference.cache
+C:\Users\h\Desktop\CGUI\CGUI\obj\Debug\Styles\UIStyles.baml
+C:\Users\h\Desktop\CGUI\CGUI\obj\Debug\Styles\DrawingStyle.baml
+C:\Users\h\Desktop\CGUI\CGUI\obj\Debug\Styles\ResultStyle.baml
+C:\Users\h\Desktop\CGUI\CGUI\obj\Debug\App.baml
+C:\Users\h\Desktop\CGUI\CGUI\obj\Debug\MainWindow.g.cs
+C:\Users\h\Desktop\CGUI\CGUI\obj\Debug\App.g.cs
+C:\Users\h\Desktop\CGUI\CGUI\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\h\Desktop\CGUI\CGUI\obj\Debug\CGUI_MarkupCompile.cache
+C:\Users\h\Desktop\CGUI\CGUI\obj\Debug\CGUI_MarkupCompile.lref
+C:\Users\h\Desktop\CGUI\CGUI\obj\Debug\MainWindow.baml
+C:\Users\h\Desktop\CGUI\CGUI\obj\Debug\CGUI.g.resources
+C:\Users\h\Desktop\CGUI\CGUI\obj\Debug\CGUI.Properties.Resources.resources
+C:\Users\h\Desktop\CGUI\CGUI\obj\Debug\CGUI.csproj.GenerateResource.cache
+C:\Users\h\Desktop\CGUI\CGUI\obj\Debug\CGUI.csproj.CoreCompileInputs.cache
+C:\Users\h\Desktop\CGUI\CGUI\obj\Debug\CGUI.csproj.CopyComplete
+C:\Users\h\Desktop\CGUI\CGUI\obj\Debug\CGUI.exe
+C:\Users\h\Desktop\CGUI\CGUI\obj\Debug\CGUI.pdb
+C:\Users\GH\Desktop\geo\final geo\CGUI\CGUI\bin\Debug\CGUI.exe.config
+C:\Users\GH\Desktop\geo\final geo\CGUI\CGUI\bin\Debug\CGUI.exe
+C:\Users\GH\Desktop\geo\final geo\CGUI\CGUI\bin\Debug\CGUI.pdb
+C:\Users\GH\Desktop\geo\final geo\CGUI\CGUI\bin\Debug\CGAlgorithms.dll
+C:\Users\GH\Desktop\geo\final geo\CGUI\CGUI\bin\Debug\CGUtilities.dll
+C:\Users\GH\Desktop\geo\final geo\CGUI\CGUI\bin\Debug\CGAlgorithms.pdb
+C:\Users\GH\Desktop\geo\final geo\CGUI\CGUI\bin\Debug\CGUtilities.pdb
+C:\Users\GH\Desktop\geo\final geo\CGUI\CGUI\obj\Debug\CGUI.csproj.AssemblyReference.cache
+C:\Users\GH\Desktop\geo\final geo\CGUI\CGUI\obj\Debug\Styles\UIStyles.baml
+C:\Users\GH\Desktop\geo\final geo\CGUI\CGUI\obj\Debug\Styles\DrawingStyle.baml
+C:\Users\GH\Desktop\geo\final geo\CGUI\CGUI\obj\Debug\Styles\ResultStyle.baml
+C:\Users\GH\Desktop\geo\final geo\CGUI\CGUI\obj\Debug\App.baml
+C:\Users\GH\Desktop\geo\final geo\CGUI\CGUI\obj\Debug\MainWindow.g.cs
+C:\Users\GH\Desktop\geo\final geo\CGUI\CGUI\obj\Debug\App.g.cs
+C:\Users\GH\Desktop\geo\final geo\CGUI\CGUI\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\GH\Desktop\geo\final geo\CGUI\CGUI\obj\Debug\CGUI_MarkupCompile.cache
+C:\Users\GH\Desktop\geo\final geo\CGUI\CGUI\obj\Debug\CGUI_MarkupCompile.lref
+C:\Users\GH\Desktop\geo\final geo\CGUI\CGUI\obj\Debug\MainWindow.baml
+C:\Users\GH\Desktop\geo\final geo\CGUI\CGUI\obj\Debug\CGUI.g.resources
+C:\Users\GH\Desktop\geo\final geo\CGUI\CGUI\obj\Debug\CGUI.Properties.Resources.resources
+C:\Users\GH\Desktop\geo\final geo\CGUI\CGUI\obj\Debug\CGUI.csproj.GenerateResource.cache
+C:\Users\GH\Desktop\geo\final geo\CGUI\CGUI\obj\Debug\CGUI.csproj.CoreCompileInputs.cache
+C:\Users\GH\Desktop\geo\final geo\CGUI\CGUI\obj\Debug\CGUI.csproj.CopyComplete
+C:\Users\GH\Desktop\geo\final geo\CGUI\CGUI\obj\Debug\CGUI.exe
+C:\Users\GH\Desktop\geo\final geo\CGUI\CGUI\obj\Debug\CGUI.pdb

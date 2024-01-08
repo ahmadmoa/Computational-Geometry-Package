@@ -1,0 +1,12 @@
+C:\Users\Mosaab\Desktop\CGUI\CGUtilities\bin\Debug\CGUtilities.dll
+C:\Users\Mosaab\Desktop\CGUI\CGUtilities\bin\Debug\CGUtilities.pdb
+C:\Users\Mosaab\Desktop\CGUI\CGUtilities\obj\Debug\CGUtilities.csproj.AssemblyReference.cache
+C:\Users\Mosaab\Desktop\CGUI\CGUtilities\obj\Debug\CGUtilities.csproj.CoreCompileInputs.cache
+C:\Users\Mosaab\Desktop\CGUI\CGUtilities\obj\Debug\CGUtilities.dll
+C:\Users\Mosaab\Desktop\CGUI\CGUtilities\obj\Debug\CGUtilities.pdb
+C:\Users\GH\Desktop\geo\final geo\CGUI\CGUtilities\bin\Debug\CGUtilities.dll
+C:\Users\GH\Desktop\geo\final geo\CGUI\CGUtilities\bin\Debug\CGUtilities.pdb
+C:\Users\GH\Desktop\geo\final geo\CGUI\CGUtilities\obj\Debug\CGUtilities.csproj.AssemblyReference.cache
+C:\Users\GH\Desktop\geo\final geo\CGUI\CGUtilities\obj\Debug\CGUtilities.csproj.CoreCompileInputs.cache
+C:\Users\GH\Desktop\geo\final geo\CGUI\CGUtilities\obj\Debug\CGUtilities.dll
+C:\Users\GH\Desktop\geo\final geo\CGUI\CGUtilities\obj\Debug\CGUtilities.pdb

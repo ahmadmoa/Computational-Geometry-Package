@@ -1,0 +1,27 @@
+C:\Users\Mosaab\Desktop\CGUI\CGAlgorithms\bin\Debug\CGAlgorithms.dll
+C:\Users\Mosaab\Desktop\CGUI\CGAlgorithms\bin\Debug\CGAlgorithms.pdb
+C:\Users\Mosaab\Desktop\CGUI\CGAlgorithms\bin\Debug\CGUtilities.dll
+C:\Users\Mosaab\Desktop\CGUI\CGAlgorithms\bin\Debug\CGUtilities.pdb
+C:\Users\Mosaab\Desktop\CGUI\CGAlgorithms\obj\Debug\CGAlgorithms.csproj.AssemblyReference.cache
+C:\Users\Mosaab\Desktop\CGUI\CGAlgorithms\obj\Debug\CGAlgorithms.csproj.CoreCompileInputs.cache
+C:\Users\Mosaab\Desktop\CGUI\CGAlgorithms\obj\Debug\CGAlgorithms.csproj.CopyComplete
+C:\Users\Mosaab\Desktop\CGUI\CGAlgorithms\obj\Debug\CGAlgorithms.dll
+C:\Users\Mosaab\Desktop\CGUI\CGAlgorithms\obj\Debug\CGAlgorithms.pdb
+C:\Users\h\Desktop\CGUI\CGAlgorithms\bin\Debug\CGAlgorithms.dll
+C:\Users\h\Desktop\CGUI\CGAlgorithms\bin\Debug\CGAlgorithms.pdb
+C:\Users\h\Desktop\CGUI\CGAlgorithms\bin\Debug\CGUtilities.dll
+C:\Users\h\Desktop\CGUI\CGAlgorithms\bin\Debug\CGUtilities.pdb
+C:\Users\h\Desktop\CGUI\CGAlgorithms\obj\Debug\CGAlgorithms.csproj.AssemblyReference.cache
+C:\Users\h\Desktop\CGUI\CGAlgorithms\obj\Debug\CGAlgorithms.csproj.CoreCompileInputs.cache
+C:\Users\h\Desktop\CGUI\CGAlgorithms\obj\Debug\CGAlgorithms.csproj.CopyComplete
+C:\Users\h\Desktop\CGUI\CGAlgorithms\obj\Debug\CGAlgorithms.dll
+C:\Users\h\Desktop\CGUI\CGAlgorithms\obj\Debug\CGAlgorithms.pdb
+C:\Users\GH\Desktop\geo\final geo\CGUI\CGAlgorithms\bin\Debug\CGAlgorithms.dll
+C:\Users\GH\Desktop\geo\final geo\CGUI\CGAlgorithms\bin\Debug\CGAlgorithms.pdb
+C:\Users\GH\Desktop\geo\final geo\CGUI\CGAlgorithms\bin\Debug\CGUtilities.dll
+C:\Users\GH\Desktop\geo\final geo\CGUI\CGAlgorithms\bin\Debug\CGUtilities.pdb
+C:\Users\GH\Desktop\geo\final geo\CGUI\CGAlgorithms\obj\Debug\CGAlgorithms.csproj.AssemblyReference.cache
+C:\Users\GH\Desktop\geo\final geo\CGUI\CGAlgorithms\obj\Debug\CGAlgorithms.csproj.CoreCompileInputs.cache
+C:\Users\GH\Desktop\geo\final geo\CGUI\CGAlgorithms\obj\Debug\CGAlgorithms.csproj.CopyComplete
+C:\Users\GH\Desktop\geo\final geo\CGUI\CGAlgorithms\obj\Debug\CGAlgorithms.dll
+C:\Users\GH\Desktop\geo\final geo\CGUI\CGAlgorithms\obj\Debug\CGAlgorithms.pdb
